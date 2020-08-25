@@ -30,5 +30,5 @@ Run example steps:
    
  you will notice that the specified property in 'users-ws.properties' with apear after the 3rd request.
  
- <h2>application-architecher</h2>
+ <h2>application architecture</h2>
  <img src="diagramm.jpg"/>
