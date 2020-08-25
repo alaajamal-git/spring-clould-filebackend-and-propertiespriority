@@ -29,3 +29,6 @@ Run example steps:
    this header was taken from the successful login request in step2.
    
  you will notice that the specified property in 'users-ws.properties' with apear after the 3rd request.
+ 
+ <h2>application-architecher</h2>
+ <img src="diagramm.jpg"/>
